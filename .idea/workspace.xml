@@ -2,184 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53d7cf0c-3310-4d3b-ab84-59c8d9e3e463" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/WebsiteDesignTSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/AE-Pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/AM-Pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/Back-To-Home-Page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/FiveJobsTSA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/FiveJobsTSA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/FiveJobsTSA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/MS-Pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/PA-Pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/PS-Pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/Saturn-Pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Five Jobs/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/5-Jobs-Img-Three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/5-Jobs-Img-Two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/5-Jobs-Pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Inhab-Other-Planets-Pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Interview-Pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Interviews-Img-Three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Interviews-Img-Two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Moon-Pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Our-Ideas-Pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Priv-Of-Space-Img-Four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Priv-Of-Space-Img-Three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Priv-Of-Space-Img-Two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Resources-Pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Space-Vehicles-Img-Four.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Space-Vehicles-Img-Three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Space-Vehicles-Img-Two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Space-Vehicles-Pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Timeline-Img-Three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Timeline-Img-Two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/Timeline-Pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page/interview.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Back-To-Home-Page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Cons-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Cons-Image-Two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Cons-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/InfoBox-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Overview-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Overview-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Overview-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Pros-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Pros-Image-One.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Pros-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/David/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/David/David-Audio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/David/David.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Eric/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Eric/Eric-Audio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Eric/Eric.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Frank/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Frank/Frank-Audio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Frank/Frank.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Interview-Inner-Page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Interview-Inner-Page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/InterviewsTSA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/InterviewsTSA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Pamela/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/Pamela/Pamela.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interviews/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Ideas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Inter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Jobs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Mars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Navbar-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Resources.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Vehicles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navbar/Wetou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/Back-To-Home-Page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/First-Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/Fourth-Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/OurIdeasTSA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/OurIdeasTSA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/Second-Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/Third-Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Our Ideas/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/Back-To-Home-Page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/PrivatizationOfSpaceExplorationTSA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/PrivatizationOfSpaceExplorationTSA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/Third-Pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resizing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Back-To-Home-Page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Background-Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/Plan-Of-Work-Log.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/ResourcesTSA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/ResourcesTSA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/StudentCopyrightChecklistTeam1047-903TSA.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/Ascender-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/Atlantis-Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/Back-To-Home-Page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/Background-Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/CuriosityRover-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/Delta-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/NewShepard-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/OrionSpacecraft-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Ascender-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Ascender-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/CuriosityRover-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/CuriosityRover-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Delta-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Delta-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/NewShepard-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/NewShepard-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/OrionSpacecraft-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/OrionSpacecraft-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Pioneer10-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Pioneer10-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/SpaceShipOne-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/SpaceShipOne-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Voyager-Clicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Voyager-Unclicked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/Pioneer10-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/SpaceShipOne-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/Voyager-Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/Voyager-Pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Space Vehicles/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/Back-To-Home-Page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/Background-Image.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/Background-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/Enterprise-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/ISS-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/Jemison-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/Left-Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/Magellan-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/NEAR-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/Right-Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/SpaceX-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/TimelineTSA.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/TimelineTSA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/TimelineTSA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/Titan-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -204,10 +27,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
+          <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -231,13 +56,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resizing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -251,11 +85,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+            <state relative-caret-position="378">
+              <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
             </state>
           </provider>
         </entry>
@@ -302,7 +136,6 @@
         <option value="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.js" />
         <option value="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.js" />
         <option value="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.css" />
-        <option value="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css" />
         <option value="$PROJECT_DIR$/Our Ideas/OurIdeasTSA.js" />
         <option value="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.css" />
         <option value="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.html" />
@@ -328,6 +161,7 @@
         <option value="$PROJECT_DIR$/Resources/ResourcesTSA.html" />
         <option value="$PROJECT_DIR$/Resources/ResourcesTSA.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css" />
       </list>
     </option>
   </component>
@@ -505,12 +339,12 @@
       <workItem from="1512873677268" duration="89000" />
       <workItem from="1514146431171" duration="1816000" />
       <workItem from="1522629938829" duration="615000" />
-      <workItem from="1545434817064" duration="368000" />
+      <workItem from="1545434817064" duration="715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="460005000" />
+    <option name="totallyTimeSpent" value="460352000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -523,9 +357,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22903453" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22903453" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -537,9 +370,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32890365" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32890365" />
-      <window_info anchor="bottom" id="File Transfer" order="10" visible="true" weight="0.32356688" />
+      <window_info anchor="bottom" id="File Transfer" order="10" weight="0.32356688" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -591,13 +424,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Navbar/Menu.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resizing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Space Vehicles/PNGs/Voyager-Unclicked.png">
       <provider selected="true" editor-type-id="images" />
@@ -824,27 +650,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/favicon.ico">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resizing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
         </state>
       </provider>
     </entry>
