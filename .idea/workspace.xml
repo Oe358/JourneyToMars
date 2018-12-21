@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53d7cf0c-3310-4d3b-ab84-59c8d9e3e463" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/WebsiteDesignTSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/AE-Pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/AM-Pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/Back-To-Home-Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/FiveJobsTSA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/FiveJobsTSA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/FiveJobsTSA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/MS-Pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/PA-Pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/PS-Pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/Saturn-Pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Five Jobs/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/5-Jobs-Img-Three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/5-Jobs-Img-Two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/5-Jobs-Pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Inhab-Other-Planets-Pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Interview-Pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Interviews-Img-Three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Interviews-Img-Two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Moon-Pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Our-Ideas-Pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Priv-Of-Space-Img-Four.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Priv-Of-Space-Img-Three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Priv-Of-Space-Img-Two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Resources-Pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Space-Vehicles-Img-Four.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Space-Vehicles-Img-Three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Space-Vehicles-Img-Two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Space-Vehicles-Pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Timeline-Img-Three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Timeline-Img-Two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/Timeline-Pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page/interview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Back-To-Home-Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Cons-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Cons-Image-Two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Cons-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/InfoBox-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Overview-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Overview-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Overview-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Pros-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Pros-Image-One.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/Pros-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhabiting Other Planets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/David/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/David/David-Audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/David/David.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Eric/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Eric/Eric-Audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Eric/Eric.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Frank/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Frank/Frank-Audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Frank/Frank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Interview-Inner-Page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Interview-Inner-Page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/InterviewsTSA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/InterviewsTSA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Pamela/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/Pamela/Pamela.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interviews/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Ideas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Inter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Jobs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Mars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Navbar-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Resources.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Vehicles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navbar/Wetou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/Back-To-Home-Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/First-Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/Fourth-Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/OurIdeasTSA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/OurIdeasTSA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/Second-Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/Third-Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our Ideas/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/Back-To-Home-Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/PrivatizationOfSpaceExplorationTSA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/PrivatizationOfSpaceExplorationTSA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/Third-Pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privatization of Space Exploration/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resizing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Back-To-Home-Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Background-Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/Plan-Of-Work-Log.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/ResourcesTSA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/ResourcesTSA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/StudentCopyrightChecklistTeam1047-903TSA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/Ascender-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/Atlantis-Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/Back-To-Home-Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/Background-Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/CuriosityRover-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/Delta-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/NewShepard-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/OrionSpacecraft-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Ascender-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Ascender-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/CuriosityRover-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/CuriosityRover-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Delta-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Delta-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/NewShepard-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/NewShepard-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/OrionSpacecraft-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/OrionSpacecraft-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Pioneer10-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Pioneer10-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/SpaceShipOne-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/SpaceShipOne-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Voyager-Clicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/PNGs/Voyager-Unclicked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/Pioneer10-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/SpaceShipOne-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/Voyager-Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/Voyager-Pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space Vehicles/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/Back-To-Home-Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/Background-Image.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/Background-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/Enterprise-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/ISS-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/Jemison-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/Left-Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/Magellan-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/NEAR-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/Right-Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/SpaceX-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/TimelineTSA.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/TimelineTSA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/TimelineTSA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/Titan-Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1508449134">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WebsiteDesignTSA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Privatization of Space Exploration/OurIdeas.html" />
+        <option value="$PROJECT_DIR$/Our Ideas/OurIdeas.css" />
+        <option value="$PROJECT_DIR$/Our Ideas/OurIdeas.html" />
+        <option value="$PROJECT_DIR$/OurIdeas.js" />
+        <option value="$PROJECT_DIR$/Our Ideas/OurIdeas.js" />
+        <option value="$PROJECT_DIR$/SpaceVehiclesTSA.html" />
+        <option value="$PROJECT_DIR$/SpaceVehiclesTSA.css" />
+        <option value="$PROJECT_DIR$/SpaceVehiclesTSA.js" />
+        <option value="$PROJECT_DIR$/ResourcesTSA.html" />
+        <option value="$PROJECT_DIR$/Resources.css" />
+        <option value="$PROJECT_DIR$/Resources/Resources.css" />
+        <option value="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.html" />
+        <option value="$PROJECT_DIR$/Home Page/Priv-Of-Space-Transistion.html" />
+        <option value="$PROJECT_DIR$/Home Page/Priv-Of-Space-Transition/Priv-Of-Space-Transition.html" />
+        <option value="$PROJECT_DIR$/Home Page/Priv-Of-Space-Transition/Priv-Of-Space-Transition.css" />
+        <option value="$PROJECT_DIR$/Home Page/Priv-Of-Space-Transition/Priv-Of-Space-Transition.js" />
+        <option value="$PROJECT_DIR$/Five Jobs/FiveJobsTSA.js" />
+        <option value="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.js" />
+        <option value="$PROJECT_DIR$/Interviews/Pamela/Pamela.css" />
+        <option value="$PROJECT_DIR$/Interviews/Pamela/Pamela.js" />
+        <option value="$PROJECT_DIR$/Interviews/Interview-Inner-Page.js" />
+        <option value="$PROJECT_DIR$/Resizing.js" />
+        <option value="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.js" />
+        <option value="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.js" />
+        <option value="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.css" />
+        <option value="$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css" />
+        <option value="$PROJECT_DIR$/Our Ideas/OurIdeasTSA.js" />
+        <option value="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.css" />
+        <option value="$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.html" />
+        <option value="$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.html" />
+        <option value="$PROJECT_DIR$/Our Ideas/OurIdeasTSA.html" />
+        <option value="$PROJECT_DIR$/Timeline/TimelineTSA.js" />
+        <option value="$PROJECT_DIR$/Timeline/TimelineTSA.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Privatization of Space Exploration/PrivatizationOfSpaceExplorationTSA.css" />
+        <option value="$PROJECT_DIR$/Five Jobs/FiveJobsTSA.html" />
+        <option value="$PROJECT_DIR$/Five Jobs/FiveJobsTSA.css" />
+        <option value="$PROJECT_DIR$/Interviews/InterviewsTSA.html" />
+        <option value="$PROJECT_DIR$/Interviews/InterviewsTSA.css" />
+        <option value="$PROJECT_DIR$/Interviews/Pamela/Pamela.html" />
+        <option value="$PROJECT_DIR$/Interviews/Frank/Frank.html" />
+        <option value="$PROJECT_DIR$/Interviews/Eric/Eric.html" />
+        <option value="$PROJECT_DIR$/Interviews/David/David.html" />
+        <option value="$PROJECT_DIR$/Interviews/Interview-Inner-Page.css" />
+        <option value="$PROJECT_DIR$/Privatization of Space Exploration/PrivatizationOfSpaceExplorationTSA.html" />
+        <option value="$PROJECT_DIR$/Timeline/TimelineTSA.html" />
+        <option value="$PROJECT_DIR$/Navbar/Navbar.css" />
+        <option value="$PROJECT_DIR$/Our Ideas/OurIdeasTSA.css" />
+        <option value="$PROJECT_DIR$/Resources/ResourcesTSA.html" />
+        <option value="$PROJECT_DIR$/Resources/ResourcesTSA.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebsiteDesignTSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebsiteDesignTSA" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Home Page" />
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Space Vehicles" />
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Timeline" />
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Navbar" />
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Interviews" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Interviews\David" />
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Interviews\Eric" />
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Interviews\Frank" />
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Interviews\Pamela" />
+      <recent name="C:\Users\owenw_000\WebstormProjects\WebsiteDesignTSA\Interviews" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Priv-Of-Space-Transition.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://missiontomars1047-903.online/Home Page/Priv-Of-Space-Transition/Priv-Of-Space-Transition.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Priv-Of-Space-Transition.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53d7cf0c-3310-4d3b-ab84-59c8d9e3e463" name="Default" comment="" />
+      <created>1483896613454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1483896613454</updated>
+      <workItem from="1483896621543" duration="3620000" />
+      <workItem from="1484270684873" duration="1644000" />
+      <workItem from="1484272372234" duration="1409000" />
+      <workItem from="1484273814671" duration="1914000" />
+      <workItem from="1484335779943" duration="9096000" />
+      <workItem from="1484410668033" duration="28000" />
+      <workItem from="1484597662456" duration="5275000" />
+      <workItem from="1484691288449" duration="10063000" />
+      <workItem from="1484776632642" duration="9748000" />
+      <workItem from="1484861851555" duration="1013000" />
+      <workItem from="1484945481534" duration="7157000" />
+      <workItem from="1485005004101" duration="18174000" />
+      <workItem from="1485093011467" duration="15070000" />
+      <workItem from="1485110376410" duration="2926000" />
+      <workItem from="1485120718250" duration="2716000" />
+      <workItem from="1485129228329" duration="318000" />
+      <workItem from="1485212657720" duration="1394000" />
+      <workItem from="1485269681312" duration="180000" />
+      <workItem from="1486226790709" duration="77000" />
+      <workItem from="1486227096176" duration="881000" />
+      <workItem from="1487201906526" duration="8641000" />
+      <workItem from="1487272332983" duration="5783000" />
+      <workItem from="1487337095088" duration="8411000" />
+      <workItem from="1487356680321" duration="1844000" />
+      <workItem from="1487975907936" duration="8589000" />
+      <workItem from="1488033834820" duration="6106000" />
+      <workItem from="1488581947241" duration="665000" />
+      <workItem from="1488582939892" duration="8734000" />
+      <workItem from="1488744435755" duration="10655000" />
+      <workItem from="1489106120419" duration="3329000" />
+      <workItem from="1489242412462" duration="16827000" />
+      <workItem from="1489525162122" duration="7114000" />
+      <workItem from="1489878247431" duration="4455000" />
+      <workItem from="1489937406458" duration="4660000" />
+      <workItem from="1489974004393" duration="3470000" />
+      <workItem from="1490055811428" duration="7095000" />
+      <workItem from="1490142177281" duration="9239000" />
+      <workItem from="1490218627330" duration="15941000" />
+      <workItem from="1490298470304" duration="8580000" />
+      <workItem from="1490453775671" duration="5673000" />
+      <workItem from="1490471457066" duration="12121000" />
+      <workItem from="1490556281697" duration="5076000" />
+      <workItem from="1490651195153" duration="12110000" />
+      <workItem from="1490734677124" duration="16353000" />
+      <workItem from="1490826559151" duration="1347000" />
+      <workItem from="1490836393622" duration="4427000" />
+      <workItem from="1490912851809" duration="13441000" />
+      <workItem from="1491002454502" duration="7256000" />
+      <workItem from="1491058179362" duration="18637000" />
+      <workItem from="1491090802048" duration="5559000" />
+      <workItem from="1491154181532" duration="9194000" />
+      <workItem from="1492656455632" duration="38000" />
+      <workItem from="1492656513225" duration="452000" />
+      <workItem from="1492810713684" duration="1104000" />
+      <workItem from="1492978682902" duration="2487000" />
+      <workItem from="1493069599585" duration="2932000" />
+      <workItem from="1493157311573" duration="2981000" />
+      <workItem from="1493334659197" duration="1199000" />
+      <workItem from="1493417703284" duration="1512000" />
+      <workItem from="1493580309982" duration="8982000" />
+      <workItem from="1493681872557" duration="10505000" />
+      <workItem from="1493766436224" duration="6243000" />
+      <workItem from="1493846232215" duration="41303000" />
+      <workItem from="1494684257216" duration="25480000" />
+      <workItem from="1494896536528" duration="6006000" />
+      <workItem from="1496507374955" duration="13000" />
+      <workItem from="1511016888043" duration="1845000" />
+      <workItem from="1512873677268" duration="89000" />
+      <workItem from="1514146431171" duration="1816000" />
+      <workItem from="1522629938829" duration="615000" />
+      <workItem from="1545434817064" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="460005000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22903453" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32890365" />
+      <window_info anchor="bottom" id="File Transfer" order="10" visible="true" weight="0.32356688" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22916667" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32890365" />
+      <window_info anchor="bottom" id="File Transfer" order="10" weight="0.32405892" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Interviews/Frank/Frank-Audio.mp3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Timeline/ISS-Image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interviews/Interview-Inner-Page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home Page/WebsiteDesignTSA.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navbar/Menu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resizing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Space Vehicles/PNGs/Voyager-Unclicked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Space Vehicles/PNGs/Voyager-Clicked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Space Vehicles/PNGs/Pioneer10-Clicked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Space Vehicles/PNGs/Pioneer10-Unclicked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Space Vehicles/PNGs/SpaceShipOne-Clicked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="165" column="41" lean-forward="true" selection-start-line="165" selection-start-column="41" selection-end-line="165" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inhabiting Other Planets/Overview-Clicked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inhabiting Other Planets/Overview-Unclicked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inhabiting Other Planets/Overview-Image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inhabiting Other Planets/Pros-Unclicked.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="245" column="14" selection-start-line="245" selection-start-column="14" selection-end-line="245" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Five Jobs/FiveJobsTSA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="143" column="7" lean-forward="true" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navbar/Resources.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home Page/Our-Ideas-Pic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Timeline/Background-Image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Our Ideas/Background-Image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Our Ideas/OurIdeasTSA.js" />
+    <entry file="file://$PROJECT_DIR$/Five Jobs/Back-To-Home-Page.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Our Ideas/OurIdeasTSA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Timeline/TimelineTSA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="739" column="58" selection-start-line="739" selection-start-column="58" selection-end-line="739" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Timeline/TimelineTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="786" column="33" selection-start-line="786" selection-start-column="33" selection-end-line="786" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Five Jobs/FiveJobsTSA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Space Vehicles/SpaceVehiclesTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interviews/Eric/Eric.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interviews/David/David.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interviews/Frank/Frank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interviews/InterviewsTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="167" column="11" selection-start-line="167" selection-start-column="11" selection-end-line="167" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interviews/Pamela/Pamela.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Privatization of Space Exploration/PrivatizationOfSpaceExplorationTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interviews/Interview-Inner-Page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Privatization of Space Exploration/PrivatizationOfSpaceExplorationTSA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inhabiting Other Planets/InhabitingOtherPlanetsTSA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="64" column="24" lean-forward="true" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Timeline/TimelineTSA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="384" column="16" selection-start-line="384" selection-start-column="16" selection-end-line="384" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navbar/Navbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="182" column="13" selection-start-line="182" selection-start-column="13" selection-end-line="182" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Our Ideas/OurIdeasTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/ResourcesTSA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="46" column="40" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/ResourcesTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interviews/InterviewsTSA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1752">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Five Jobs/FiveJobsTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4050">
+          <caret line="157" column="30" selection-start-line="157" selection-start-column="30" selection-end-line="157" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home Page/WebsiteDesignTSA.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

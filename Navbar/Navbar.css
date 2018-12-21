@@ -1,0 +1,214 @@
+#nav-bar:hover {
+    width: 15rem;
+    transition: width .25s linear;
+}
+
+#nav-bar {
+    position: fixed;
+    top: 3rem;
+    left: 0rem;
+    width: 5rem;
+    height: 42rem;
+    z-index: 4;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    background: url(Navbar-Background.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: width .25s linear;
+}
+
+#nav-bar:hover #menu {
+    opacity: 0;
+    transition: opacity .25s linear;
+}
+
+#menu {
+    opacity: 1;
+    position: absolute;
+    top: 13rem;
+    left: 1rem;
+    width: 3rem;
+    height: 11rem;
+    z-index: 5;
+    background: url(Menu.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: opacity .25s linear;
+}
+
+#nav-bar:hover #wetou {
+    width: 13rem;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#wetou {
+    visibility: hidden;
+    opacity: .5;
+    position: absolute;
+    top: 2rem;
+    left: 1rem;
+    width: 5rem;
+    height: 4rem;
+    z-index: 5;
+    background: url(Wetou.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#nav-bar:hover #jobs {
+    width: 13rem;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#jobs {
+    visibility: hidden;
+    opacity: .5;
+    position: absolute;
+    top: 8rem;
+    left: 1rem;
+    width: 5rem;
+    height: 2rem;
+    z-index: 5;
+    background: url(Jobs.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#nav-bar:hover #vehicles {
+    width: 13rem;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#vehicles {
+    visibility: hidden;
+    opacity: .5;
+    position: absolute;
+    top: 12.5rem;
+    left: 1rem;
+    width: 5rem;
+    height: 2rem;
+    z-index: 5;
+    background: url(Vehicles.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#nav-bar:hover #mars {
+    width: 13rem;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#mars {
+    visibility: hidden;
+    opacity: .5;
+    position: absolute;
+    top: 17rem;
+    left: 1rem;
+    width: 5rem;
+    height: 4rem;
+    z-index: 5;
+    background: url(Mars.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#nav-bar:hover #inter {
+    width: 13rem;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#inter {
+    visibility: hidden;
+    opacity: .5;
+    position: absolute;
+    top: 23rem;
+    left: 1rem;
+    width: 5rem;
+    height: 2rem;
+    z-index: 5;
+    background: url(Inter.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#nav-bar:hover #time {
+    width: 13rem;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#time {
+    visibility: hidden;
+    opacity: .5;
+    position: absolute;
+    top: 28rem;
+    left: 1rem;
+    width: 5rem;
+    height: 2rem;
+    z-index: 5;
+    background: url(Time.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#nav-bar:hover #ideas {
+    width: 13rem;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#ideas {
+    visibility: hidden;
+    opacity: .5;
+    position: absolute;
+    top: 32.5rem;
+    left: 1rem;
+    width: 5rem;
+    height: 2rem;
+    z-index: 5;
+    background: url(Ideas.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#nav-bar:hover #resources {
+    width: 13rem;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}
+
+#resources {
+    visibility: hidden;
+    opacity: .5;
+    position: absolute;
+    top: 37rem;
+    left: -1.5rem;
+    width: 6rem;
+    height: 2.6rem;
+    z-index: 5;
+    background: url(Resources.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    transition: opacity .25s linear,width .25s step-start,visibility .25s step-start;
+}

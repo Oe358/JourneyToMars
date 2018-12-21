@@ -1,0 +1,465 @@
+body {
+    background: url(Background-Image.jpg) repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    top: -1rem;
+    width: 100%;
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Righteous', serif;
+}
+
+#back-to-home-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 12rem;
+}
+
+a {
+    color: rgb(0, 255, 255);
+    font-family: 'Aldrich', serif;
+}
+
+a:hover {
+    color: rgb(200, 15, 15);
+    text-decoration: none;
+}
+
+button {
+    outline: none;
+    border: none;
+    background: none;
+    padding: 0rem;
+    margin: 0rem;
+}
+
+#overview-button {
+    position: absolute;
+    top: 15rem;
+    left: 25.075rem;
+    width: 49.9rem;
+}
+
+#overview-button img {
+    width: 49.9rem;
+}
+
+#pros-button {
+    position: absolute;
+    top: 24rem;
+    left: 25rem;
+    width: 25rem;
+}
+
+#pros-button img {
+    width: 25rem;
+}
+
+#cons-button {
+    position: absolute;
+    top: 24rem;
+    left: 50rem;
+    width: 25rem;
+    margin-bottom: 5rem;
+}
+
+#cons-button img {
+    width: 25rem;
+}
+
+#info-box {
+    background: url(InfoBox-Background.png) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    margin-bottom: 5rem;
+    position: absolute;
+    top: 45rem;
+    left: 7.5rem;
+    width: 85rem;
+    height: 31rem;
+}
+
+#info-box h3 {
+    font-family: 'Aldrich', serif;
+    font-size: 3rem;
+    text-align: center;
+    color: black;
+    position: absolute;
+    top: -1rem;
+    left: 0rem;
+    width: 100%;
+}
+
+#info-box .paragraph {
+    font-size: 1.5rem;
+    color: black;
+    font-family: "Crimson Text", sans-serif;
+    position: absolute;
+    top: 8rem;
+    left: 3rem;
+    width: 79rem;
+}
+
+#info-box .indent {
+    margin-left: 3rem;
+}
+
+#info-box #overview-info .short-version .keep-reading-button-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 26rem;
+}
+
+#info-box #pros-info .short-version .keep-reading-button-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 18rem;
+}
+
+#info-box #cons-info .short-version .keep-reading-button-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 17rem;
+}
+
+#info-box .short-version button {
+    color: blue;
+    font-family: "Crimson Text", sans-serif;
+    font-size: 1.5rem;
+}
+
+#info-box .long-version {
+    display: none;
+}
+
+#info-box #overview-info-img {
+    position: absolute;
+    top: 51rem;
+    left: 3rem;
+    width: 79rem;
+}
+
+#info-box #overview-info-caption {
+    position: absolute;
+    top: 83rem;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-family: "Crimson Text", sans-serif;
+    font-size: 1rem;
+}
+
+#info-box #pros-img-one {
+    width: 100%;
+}
+
+#info-box #pros-img-one img {
+    width: 100%;
+}
+
+#info-box #pros-img-one figcaption {
+    text-align: center;
+    color: black;
+    font-family: "Crimson Text", sans-serif;
+    font-size: 1rem;
+}
+
+#info-box #pros-img-two {
+    float: right;
+    width: 30%;
+}
+
+#info-box #pros-img-two img {
+    width: 100%;
+}
+
+#info-box #pros-img-two figcaption {
+    text-align: center;
+    color: black;
+    font-family: "Crimson Text", sans-serif;
+    font-size: 1rem;
+}
+
+#info-box #cons-img-one {
+    float: right;
+    width: 30%;
+    margin-left: 1rem;
+}
+
+#info-box #cons-img-one img {
+    width: 100%;
+}
+
+#info-box #cons-img-one figcaption {
+    text-align: center;
+    color: black;
+    font-family: "Crimson Text", sans-serif;
+    font-size: 1rem;
+}
+
+#info-box #cons-img-two {
+    float: left;
+    width: 30%;
+    margin-right: 1rem;
+}
+
+#info-box #cons-img-two img {
+    width: 100%;
+}
+
+#info-box #cons-img-two figcaption {
+    text-align: center;
+    color: black;
+    font-family: "Crimson Text", sans-serif;
+    font-size: 1rem;
+}
+
+#info-box #overview-info .long-version .back-to-top-button-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 86rem;
+}
+
+#info-box #pros-info .long-version .back-to-top-button-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 165rem;
+}
+
+#info-box #cons-info .long-version .back-to-top-button-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 96rem;
+}
+
+#info-box .long-version button {
+    color: blue;
+    font-family: "Crimson Text", sans-serif;
+    font-size: 1.5rem;
+}
+
+#pros-info {
+    display: none;
+}
+
+#cons-info {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@media only screen and (max-width: 500px) {*/
+    /*body {*/
+        /*font-size: 5px;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 768px) and (min-width: 500px) {*/
+    /*body {*/
+        /*font-size: 10px;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 992px) and (min-width: 768px) {*/
+    /*body {*/
+        /*font-size: 15px;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 1200px) and (min-width: 992px) {*/
+    /*body {*/
+        /*font-size: 20px;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (min-width: 1200px) and (max-width: 1400px){*/
+    /*body {*/
+        /*font-size: 25px;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (min-width: 1401px) {*/
+    /*body {*/
+        /*font-size: 35px;*/
+    /*}*/
+    /*#info-box p {*/
+        /*font-size: 1em;*/
+        /*font-family: 'Crimson Text', sans-serif;*/
+    /*}*/
+
+/*}*/
+
+/*body {*/
+    /*background: url(Background-Image.jpg) no-repeat center center fixed;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+/*}*/
+
+/*h1 {*/
+    /*text-align: center;*/
+    /*color: white;*/
+    /*font-family: 'Electrolize', sans-serif;*/
+    /*font-size: 2.5em;*/
+/*}*/
+
+/*a img {*/
+    /*width: 100%;*/
+    /*margin-top: 1em;*/
+/*}*/
+
+/*#row-two {*/
+    /*margin-top: 0em;*/
+/*}*/
+
+/*.button {*/
+    /*background-color: rgb(242, 242, 242);*/
+    /*border: 1px solid gray;*/
+    /*border-top-left-radius: 1em;*/
+    /*border-top-right-radius: 1em;*/
+    /*margin-right: -.2em;*/
+    /*font-family: 'Kaushan Script', sans-serif;*/
+    /*font-size: 1.5em;*/
+    /*width: 33.333%;*/
+/*}*/
+
+/*button {*/
+    /*outline: none;*/
+/*}*/
+
+/*#overview-button {*/
+    /*background-color: gray;*/
+/*}*/
+
+/*#info-box {*/
+    /*background-color: rgb(242, 242, 242);*/
+    /*border: 2px solid gray;*/
+    /*width: 99.9%;*/
+    /*color: black;*/
+    /*padding: 1em;*/
+    /*margin-bottom: 1em;*/
+/*}*/
+
+/*#info-box h2 {*/
+    /*font-family: 'Aclonica', sans-serif;*/
+    /*font-size: 2em;*/
+    /*text-align: center;*/
+    /*margin-top: -.4em;*/
+/*}*/
+
+/*#info-box h3 {*/
+    /*font-family: 'Architects Daughter', sans-serif;*/
+    /*font-size: 1.2em;*/
+    /*text-align: center;*/
+    /*margin-top: -.3em;*/
+/*}*/
+
+/*#info-box .margin {*/
+    /*margin-left: 2em;*/
+/*}*/
+
+/*#info-box p {*/
+    /*font-size: .75em;*/
+    /*font-family: 'Crimson Text', sans-serif;*/
+/*}*/
+
+/*#info-box #overview-img {*/
+    /*width: 100%;*/
+/*}*/
+
+/*#info-box #pros-img-one {*/
+    /*width: 80%;*/
+    /*margin-left: 10%;*/
+    /*margin-right: 10%;*/
+/*}*/
+
+/*#info-box #pros-img-two-div {*/
+    /*align: right;*/
+    /*float: right;*/
+    /*width: 30%;*/
+    /*margin-left: 1em;*/
+/*}*/
+
+/*#info-box #cons-img-one-div {*/
+    /*align: right;*/
+    /*float: right;*/
+    /*width: 30%;*/
+    /*margin-right: 1em;*/
+    /*margin-top: 1em;*/
+/*}*/
+
+/*#info-box #cons-img-two-div {*/
+    /*align: left;*/
+    /*float: left;*/
+    /*width: 30%;*/
+    /*margin-right: 1em;*/
+/*}*/
+
+/*#info-box #pros-img-two-div #pros-img-two {*/
+    /*width: 100%;*/
+/*}*/
+
+/*#info-box #cons-img-one-div #cons-img-one {*/
+    /*width: 100%;*/
+/*}*/
+
+/*#info-box #cons-img-two-div #cons-img-two {*/
+    /*width: 100%;*/
+/*}*/
+
+/*#info-box figcaption {*/
+    /*font-size: .5em;*/
+    /*font-family: 'Crimson Text', sans-serif;*/
+    /*margin-left: 5em;*/
+/*}*/
+
+/*#info-box #pros-caption-one {*/
+    /*margin-left: 20%;*/
+/*}*/
+
+/*#info-box #pros-img-two-div figcaption {*/
+    /*margin-left: 0em;*/
+/*}*/
+
+/*#info-box #cons-img-one-div figcaption {*/
+    /*margin-left: 2em;*/
+/*}*/
+
+/*#info-box #overview-info {*/
+    /*display: inline;*/
+/*}*/
+
+/*#info-box #pros-info {*/
+    /*display: none;*/
+/*}*/
+
+/*#info-box #cons-info {*/
+    /*display: none;*/
+/*}*/

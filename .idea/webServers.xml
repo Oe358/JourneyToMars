@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a494c2a3-1d9f-4e1b-9760-bf05a9f18d80" name="mission to mars" url="http://missiontomars1047-903.online">
+        <fileTransfer host="bethel.dreamhost.com" port="22" rootFolder="/home/owenweth" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

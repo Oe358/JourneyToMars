@@ -1,0 +1,126 @@
+@media only screen and (max-width: 500px) {
+    body {
+        font-size: 5px;
+    }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 500px) {
+    body {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+    body {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+    body {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        font-size: 25px;
+    }
+}
+
+body {
+    background: url(Pamela/Background-Image.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 3.5em;
+    font-family: 'Righteous', sans-serif;
+    color: white;
+    text-align: center;
+    margin-bottom: -.2em;
+}
+
+h3 {
+    font-size: 1em;
+    font-family: 'Aldrich', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    width: 100%;
+    font-family: 'Aldrich', sans-serif;
+}
+
+a {
+    color: rgb(0, 255, 255);
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(200, 15, 15);
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    border-radius: 1em;
+    border: none;
+    outline: none;
+}
+
+h5 {
+    color: white;
+}
+
+#play-div {
+    margin-top: .25em;
+    text-align: center;
+}
+
+#text-box {
+    border-radius: .25em;
+    background-color: rgb(242, 242, 242);
+    color: black;
+    margin-top: .5em;
+    padding: 1em;
+    margin-bottom: 2em;
+}
+
+#text-box #man-button-div {
+    text-align: center;
+}
+
+#text-box button {
+    background-color: rgb(166, 166, 166);
+    font-family: 'Aldrich', sans-serif;
+}
+
+#manuscript {
+    display: none;
+}
+
+#text-box h2 {
+    font-family: 'Aldrich', sans-serif;
+    text-align: center;
+}
+
+#text-box h3 {
+    color: black;
+    text-align: left;
+    font-family: 'Crimson Text', serif;
+}
+
+a:hover{
+    text-decoration: none !important;
+}
+
+a:link {
+    text-decoration: none !important;
+}

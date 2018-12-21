@@ -1,0 +1,985 @@
+@media only screen and (max-width: 500px) {
+    body {
+        font-size: 5px;
+    }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 500px) {
+    body {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+    body {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+    body {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        font-size: 25px;
+    }
+}
+
+body {
+    background: url(Background-Image.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.row{
+    overflow: hidden;
+}
+
+[class*="col-"]{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+.row.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#title {
+    font-family: 'Syncopate', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 3em;
+}
+
+#by-line {
+    font-family: 'Syncopate', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 1em;
+}
+
+img {
+    width: 100%;
+}
+
+.blue-background {
+    background-color: rgb(51, 102, 255);
+}
+
+.red-background {
+    background-color: red;
+}
+
+#priv-of-space {
+    height: 20em;
+    overflow-y: hidden;
+}
+
+#priv-of-space-p {
+    color: white;
+    font-size: 1.5em;
+    line-height: 1.25em;
+    font-family: 'Short Stack', sans-serif;
+    text-decoration: none;
+    padding: 2em 5em 0em .5em;
+    width: 100%;
+    height: 300%;
+}
+
+#priv-of-space-img {
+    width: 105%;
+    margin-left: -2%;
+    filter: alpha(opacity = 100);
+    opacity: 1;
+}
+
+.priv-of-space-imgs {
+    width: 105%;
+    margin-left: -2%;
+    margin-top: -100%;
+    filter: alpha(opacity = 0);
+    opacity: 0;
+}
+
+#priv-of-space:hover {
+    width: 105%;
+    margin-left: -2.5%;
+    transition: width .25s linear,margin-left .25s linear;
+}
+
+#priv-of-space:hover #priv-of-space-img-two {
+    filter: alpha(opacity = 100);
+    opacity: 1;
+    transition: opacity 2s linear,filter 2s linear;
+}
+
+#priv-of-space:hover #priv-of-space-img-three {
+    filter: alpha(opacity = 100);
+    opacity: 1;
+    transition: opacity 4s cubic-bezier(.86,0,.5,0),filter 4s cubic-bezier(.86,0,.5,0);
+}
+
+#priv-of-space:hover #priv-of-space-img-four {
+    filter: alpha(opacity = 100);
+    opacity: 1;
+    transition: opacity 6.5s cubic-bezier(.99,0,.5,0),filter 6.5s cubic-bezier(.99,0,.5,0);
+}
+
+#priv-of-space-img-five {
+    margin-top: -106%;
+}
+
+#priv-of-space:hover #priv-of-space-img-five {
+    filter: alpha(opacity = 100);
+    opacity: 1;
+    transition: opacity 9s cubic-bezier(.99,0,.5,0),filter 9s cubic-bezier(.99,0,.5,0);
+}
+
+#priv-of-space:not(:hover) {
+    width: 100%;
+    transition: width .25s linear,margin-left .25s linear;
+}
+
+.row-top-margin {
+    margin-top: 1em;
+}
+
+@media only screen and (min-width: 1401px) {
+    #priv-of-space-p {
+        color: white;
+        font-size: 1.15em;
+        font-family: 'Short Stack', sans-serif;
+        text-decoration: none;
+        padding: 2em 5em 0em .5em;
+    }
+
+    #row-four {
+        max-height: 15em;
+        overflow: hidden;
+    }
+
+    #five-jobs-img {
+        width: 125%;
+        height: 100%;
+    }
+
+    #five-jobs-p {
+        color: white;
+        font-size: 1.25em;
+        text-align: center;
+        font-family: 'Aclonica', sans-serif;
+        text-decoration: none;
+        width: 125%;
+        margin-bottom: 0em;
+    }
+
+    #five-jobs-img-two {
+        margin-top: -86%;
+    }
+
+    #five-jobs-img-three {
+        margin-top: -86%;
+    }
+
+    #five-jobs-img-four {
+        margin-top: -90%;
+    }
+
+    #five-jobs-img-five {
+        margin-top: -121%;
+    }
+
+    #space-vehicles-img {
+        width: 122%;
+        height: 100%;
+        margin-left: 15px;
+    }
+
+    #space-vehicles-p {
+        color: white;
+        font-size: 1.25em;
+        text-align: center;
+        font-family: 'Aclonica', sans-serif;
+        text-decoration: none;
+        width: 122%;
+        margin-bottom: 0em;
+        margin-left: 15px;
+        padding: 0em 4em 0em 4em;
+    }
+
+    #space-vehicles-img-two {
+        margin-top: -65%;
+    }
+
+    #space-vehicles-img-three {
+        margin-top: -83%;
+    }
+
+    #space-vehicles-img-four {
+        margin-top: -83%;
+    }
+
+    #space-vehicles-img-five {
+        margin-top: -115%;
+    }
+
+    #row-five {
+        height: 10em;
+        overflow: hidden;
+    }
+
+    #inhab-planets {
+        background-color: red;
+    }
+
+    #inhab-planets-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #inhab-planets-p {
+        padding-top: 2em;
+        padding-left: .5em;
+        color: white;
+        font-size: .8em;
+        font-family: 'Berkshire Swash', sans-serif;
+        text-decoration: none;
+        height: 100%;
+        width: 100%;
+    }
+
+    #smaller-text {
+        font-size: .75em;
+    }
+
+    #interviews {
+        margin-left: 7.5px;
+        margin-right: 7.5px;
+    }
+
+    #interviews-p {
+        background-color: gray;
+        color: white;
+        font-size: 1.1em;
+        text-align: center;
+        font-family: 'Berkshire Swash', sans-serif;
+        text-decoration: none;
+        margin-bottom: 0em;
+        padding-top: .5em;
+        padding-bottom: .5em;
+    }
+
+    #interviews-img-two {
+        margin-top: -91%;
+    }
+
+    #interviews-img-three {
+        margin-top: -107%;
+    }
+
+    #interviews-img-four {
+        margin-top: -135%;
+    }
+
+    #interviews-img-five {
+        margin-top: -175%;
+    }
+
+    #timeline {
+        background-color: rgb(51, 102, 255);
+    }
+
+    #timeline-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #timeline-p {
+        padding-top: 2.5em;
+        padding-left: .3em;
+        color: white;
+        font-size: .65em;
+        line-height: 1.35em;
+        font-family: 'Berkshire Swash', sans-serif;
+        text-decoration: none;
+        height: 100%;
+        width: 90%;
+    }
+
+    #resources-img {
+        margin-bottom: 2em;
+        z-index: 1;
+        width: 100%;
+    }
+
+    #row-six-one {
+        z-index: 3;
+        margin-top: -10em;
+    }
+
+    #resources-p {
+        color: white;
+        text-align: center;
+        width: 100%;
+        font-size: 2em;
+        font-family: 'Trade Winds', sans-serif;
+    }
+
+    #moon-img {
+        margin-top: 2em;
+        margin-bottom: 3em;
+    }
+
+    #row-six-two {
+        z-index: 3;
+        margin-top: -8em;
+    }
+
+    #our-ideas-p {
+        color: white;
+        text-align: center;
+        width: 100%;
+        font-size: 2em;
+        font-family: 'Trade Winds', sans-serif;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1400px) {
+    #priv-of-space-p {
+        color: white;
+        font-size: 1.15em;
+        font-family: 'Short Stack', sans-serif;
+        text-decoration: none;
+        padding: 2em 5em 0em .5em;
+    }
+
+    #row-four {
+        max-height: 15em;
+        overflow: hidden;
+    }
+
+    #five-jobs-img {
+        width: 125%;
+        height: 100%;
+    }
+
+    #five-jobs-p {
+        color: white;
+        font-size: 1.25em;
+        text-align: center;
+        font-family: 'Aclonica', sans-serif;
+        text-decoration: none;
+        width: 125%;
+        margin-bottom: 0em;
+    }
+
+    #five-jobs-img-two {
+        margin-top: -86%;
+    }
+
+    #five-jobs-img-three {
+        margin-top: -88%;
+    }
+
+    #five-jobs-img-four {
+        margin-top: -100%;
+    }
+
+    #five-jobs-img-five {
+        margin-top: -131%;
+    }
+
+    #space-vehicles-img {
+        width: 122%;
+        height: 100%;
+        margin-left: 15px;
+    }
+
+    #space-vehicles-p {
+        color: white;
+        font-size: 1.25em;
+        text-align: center;
+        font-family: 'Aclonica', sans-serif;
+        text-decoration: none;
+        width: 122%;
+        margin-bottom: 0em;
+        margin-left: 15px;
+        padding: 0em 3.25em 0em 3.25em;
+    }
+
+    #space-vehicles-img-two {
+        margin-top: -65%;
+    }
+
+    #space-vehicles-img-three {
+        margin-top: -86%;
+    }
+
+    #space-vehicles-img-four {
+        margin-top: -83%;
+    }
+
+    #space-vehicles-img-five {
+        margin-top: -122%;
+    }
+
+    #row-five {
+        height: 8.5em;
+        overflow: hidden;
+    }
+
+    #inhab-planets {
+        background-color: red;
+    }
+
+    #inhab-planets-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #inhab-planets-p {
+        padding-top: 2em;
+        padding-left: .5em;
+        color: white;
+        font-size: .8em;
+        font-family: 'Berkshire Swash', sans-serif;
+        text-decoration: none;
+        height: 100%;
+        width: 100%;
+    }
+
+    #smaller-text {
+        font-size: .75em;
+    }
+
+    #interviews {
+        margin-left: 7.5px;
+        margin-right: 7.5px;
+    }
+
+    #interviews-p {
+        background-color: gray;
+        color: white;
+        font-size: 1.1em;
+        text-align: center;
+        font-family: 'Berkshire Swash', sans-serif;
+        text-decoration: none;
+        margin-bottom: 0em;
+        padding-top: .5em;
+        padding-bottom: .5em;
+    }
+
+    #interviews-img-two {
+        margin-top: -91%;
+    }
+
+    #interviews-img-three {
+        margin-top: -107%;
+    }
+
+    #interviews-img-four {
+        margin-top: -140%;
+    }
+
+    #interviews-img-five {
+        margin-top: -185%;
+    }
+
+    #timeline {
+        background-color: rgb(51, 102, 255);
+    }
+
+    #timeline-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #timeline-p {
+        padding-top: 2.5em;
+        padding-left: .3em;
+        color: white;
+        font-size: .65em;
+        line-height: 1.35em;
+        font-family: 'Berkshire Swash', sans-serif;
+        text-decoration: none;
+        height: 100%;
+        width: 90%;
+    }
+
+    #resources-img {
+        margin-bottom: 2em;
+        z-index: 1;
+    }
+
+    #row-six-one {
+        z-index: 3;
+        margin-top: -10em;
+    }
+
+    #resources-p {
+        color: white;
+        text-align: center;
+        width: 100%;
+        font-size: 2em;
+        font-family: 'Trade Winds', sans-serif;
+    }
+
+    #moon-img {
+        margin-top: 2em;
+        margin-bottom: 3em;
+    }
+
+    #row-six-two {
+        z-index: 3;
+        margin-top: -8em;
+    }
+
+    #our-ideas-p {
+        color: white;
+        text-align: center;
+        width: 100%;
+        font-size: 2em;
+        font-family: 'Trade Winds', sans-serif;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    #priv-of-space-p {
+        color: white;
+        font-size: 1.25em;
+        font-family: 'Short Stack', sans-serif;
+        text-decoration: none;
+        padding: 2em 3.5em 0em .5em;
+    }
+
+    #five-jobs-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #five-jobs-p {
+        color: white;
+        font-size: 1.5em;
+        padding-left: 3em;
+        padding-right: 3em;
+        text-align: center;
+        font-family: 'Aclonica', sans-serif;
+        text-decoration: none;
+        width: 100%;
+        margin-bottom: 0em;
+    }
+
+    #space-vehicles-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #space-vehicles-p {
+        color: white;
+        font-size: 1.5em;
+        text-align: center;
+        font-family: 'Aclonica', sans-serif;
+        text-decoration: none;
+        width: 100%;
+        margin-bottom: 0em;
+        padding: 0em 8em 0em 8em;
+    }
+
+    .inhab-other-planets {
+        height: 300px;
+        overflow: hidden;
+    }
+
+    #inhab-planets-img {
+        width: 100%;
+    }
+
+    #inhab-planets-p {
+        padding-top: 1em;
+        padding-left: 2em;
+        font-size: 1em;
+        color: white;
+        font-family: 'Berkshire Swash', sans-serif;
+        text-decoration: none;
+        height: 25em;
+        width: 100%;
+    }
+
+    #interview-pic-stop {
+        height: 20em;
+        overflow: hidden;
+    }
+
+    #interviews-p {
+        background-color: gray;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+        font-family: 'Berkshire Swash', sans-serif;
+        text-decoration: none;
+        margin-bottom: 0em;
+        padding-top: .5em;
+        padding-bottom: .5em;
+    }
+
+    .timeline {
+        height: 300px;
+        overflow: hidden;
+    }
+
+    #timeline-p {
+        padding-top: 2.5em;
+        padding-left: .3em;
+        color: white;
+        font-size: 2em;
+        line-height: 1.35em;
+        font-family: 'Berkshire Swash', sans-serif;
+        text-decoration: none;
+        height: 400px;
+        width: 100%;
+    }
+
+    #resources-img {
+        margin-bottom: 2em;
+        z-index: 1;
+    }
+
+    #row-six-one {
+        z-index: 3;
+        margin-top: -10em;
+    }
+
+    #resources-p {
+        color: white;
+        text-align: center;
+        width: 100%;
+        font-size: 2em;
+        font-family: 'Trade Winds', sans-serif;
+    }
+
+    #moon-img {
+        margin-top: 2em;
+        margin-bottom: 3em;
+    }
+
+    #row-six-two {
+        z-index: 3;
+        margin-top: -8em;
+    }
+
+    #our-ideas-p {
+        color: white;
+        text-align: center;
+        width: 100%;
+        font-size: 2em;
+        font-family: 'Trade Winds', sans-serif;
+    }
+
+    #five-jobs-img-two {
+        display: none;
+    }
+
+    #five-jobs-img-three {
+        display: none;
+    }
+
+    #five-jobs-img-four {
+        display: none;
+    }
+
+    #five-jobs-img-five {
+        display: none;
+    }
+
+    #space-vehicles-img-two {
+        display: none;
+    }
+
+    #space-vehicles-img-three {
+        display: none;
+    }
+
+    #space-vehicles-img-four {
+        display: none;
+    }
+
+    #space-vehicles-img-five {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #five-jobs-img {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+    }
+
+    .five-jobs-imgs {
+        width: 125%;
+        filter: alpha(opacity = 0);
+        opacity: 0;
+    }
+
+    #five-jobs:hover {
+        width: 35%;
+        margin-left: 7%;
+        margin-top: 1%;
+        font-size: 1.1em;
+        transition: width .25s linear,margin-left .25s linear,font-size .25s linear,margin-top .25s linear;
+    }
+
+    #five-jobs:hover #five-jobs-img-two {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 2s linear,filter 2s linear;
+    }
+
+    #five-jobs:hover #five-jobs-img-three {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 4s cubic-bezier(.86,0,.5,0),filter 4s cubic-bezier(.86,0,.5,0);
+    }
+
+    #five-jobs:hover #five-jobs-img-four {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 6.5s cubic-bezier(.99,0,.5,0),filter 6.5s cubic-bezier(.99,0,.5,0);
+    }
+
+    #five-jobs:hover #five-jobs-img-five {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 9.5s cubic-bezier(.99,0,.5,0),filter 9.5s cubic-bezier(.99,0,.5,0);
+    }
+
+    #five-jobs:not(:hover) {
+        width: 33%;
+        transition: width .25s linear,margin-left .25s linear,font-size .25s linear,margin-top .25s linear;
+    }
+
+    #space-vehicles-img {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+    }
+
+    .space-vehicles-imgs {
+        width: 122%;
+        margin-left: 15px;
+        filter: alpha(opacity = 0);
+        opacity: 0;
+    }
+
+    #space-vehicles:hover {
+        width: 35%;
+        margin-top: 1%;
+        font-size: 1.1em;
+        transition: width .25s linear,font-size .25s linear,margin-top .25s linear;
+    }
+
+    #space-vehicles:hover #space-vehicles-img-two {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 2s linear,filter 2s linear;
+    }
+
+    #space-vehicles:hover #space-vehicles-img-three {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 4s cubic-bezier(.86,0,.5,0),filter 4s cubic-bezier(.86,0,.5,0);
+    }
+
+    #space-vehicles:hover #space-vehicles-img-four {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 6.5s cubic-bezier(.99,0,.5,0),filter 6.5s cubic-bezier(.99,0,.5,0);
+    }
+
+    #space-vehicles:hover #space-vehicles-img-five {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 10s cubic-bezier(.99,0,.5,0),filter 10s cubic-bezier(.99,0,.5,0);
+    }
+
+    #space-vehicles:not(:hover) {
+        width: 33%;
+        transition: width .25s linear,font-size .25s linear,margin-top .25s linear;
+    }
+
+    #inhab-planets-img {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+    }
+
+    .inhab-planets-imgs {
+        filter: alpha(opacity = 0);
+        opacity: 0;
+    }
+
+    #inhab-planets-img-two {
+        margin-top: -100%;
+    }
+
+    #inhab-planets-img-three {
+        margin-top: -114%;
+    }
+
+    #inhab-planets-img-four {
+        margin-top: -130%;
+    }
+
+    #inhab-planets-img-five {
+        margin-top: -140%;
+    }
+
+    #inhab-planets:hover {
+        width: 37%;
+        margin-top: 1%;
+        margin-left: 7%;
+        transition: width .25s linear,margin-left .25s linear,margin-top .25s linear,margin-left .25s linear;
+    }
+
+    #inhab-planets:hover #inhab-planets-img-two {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 2s linear,filter 2s linear;
+    }
+
+    #inhab-planets:hover #inhab-planets-img-three {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 4s cubic-bezier(.86,0,.5,0),filter 4s cubic-bezier(.86,0,.5,0);
+    }
+
+    #inhab-planets:hover #inhab-planets-img-four {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 6.5s cubic-bezier(.99,0,.5,0),filter 6.5s cubic-bezier(.99,0,.5,0);
+    }
+
+    #inhab-planets:hover #inhab-planets-img-five {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 10s cubic-bezier(.99,0,.5,0),filter 10s cubic-bezier(.99,0,.5,0);
+    }
+
+    #inhab-planets:not(:hover) {
+        transition: width .25s linear,margin-left .25s linear,margin-top .25s linear,margin-left .25s linear;
+    }
+
+    #interviews-img {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+    }
+
+    .interviews-imgs {
+        width: 100%;
+        filter: alpha(opacity = 0);
+        opacity: 0;
+    }
+
+    #interviews:hover {
+        width: 18%;
+        margin-top: 1%;
+        font-size: 1.1em;
+        margin-right: 1%;
+        transition: width .25s linear,font-size .25s linear,margin-top .25s linear,margin-right .25s linear,margin-left .25s linear;
+    }
+
+    #interviews:hover #interviews-img-two {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 2s linear,filter 2s linear;
+    }
+
+    #interviews:hover #interviews-img-three {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 4s cubic-bezier(.86,0,.5,0),filter 4s cubic-bezier(.86,0,.5,0);
+    }
+
+    #interviews:hover #interviews-img-four {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 7s cubic-bezier(.99,0,.5,0),filter 7s cubic-bezier(.99,0,.5,0);
+    }
+
+    #interviews:hover #interviews-img-five {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 10.5s cubic-bezier(.99,0,.5,0),filter 10.5s cubic-bezier(.99,0,.5,0);
+    }
+
+    #interviews:not(:hover) {
+        width: 16%;
+        transition: width .25s linear,font-size .25s linear,margin-top .25s linear,margin-right .25s linear,margin-left .25s linear;
+    }
+
+    #timeline-img {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+    }
+
+    .timeline-imgs {
+        margin-top: -100%;
+        filter: alpha(opacity = 0);
+        opacity: 0;
+    }
+
+    #timeline-img-four {
+        margin-top: -120%;
+    }
+
+    #timeline-img-five {
+        margin-top: -135%;
+    }
+
+    #timeline:hover {
+        width: 37%;
+        margin-top: 1%;
+        margin-right: -2%;
+        transition: width .25s linear,margin-left .25s linear,margin-top .25s linear,margin-right .25s linear,margin-left .25s linear;
+    }
+
+    #timeline:hover #timeline-img-two {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 2s linear,filter 2s linear;
+    }
+
+    #timeline:hover #timeline-img-three {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 4s cubic-bezier(.86,0,.5,0),filter 4s cubic-bezier(.86,0,.5,0);
+    }
+
+    #timeline:hover #timeline-img-four {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 7s cubic-bezier(.99,0,.5,0),filter 7s cubic-bezier(.99,0,.5,0);
+    }
+
+    #timeline:hover #timeline-img-five {
+        filter: alpha(opacity = 100);
+        opacity: 1;
+        transition: opacity 10.25s cubic-bezier(.99,0,.5,0),filter 10.25s cubic-bezier(.99,0,.5,0);
+    }
+
+    #timeline:not(:hover) {
+        transition: width .25s linear,margin-left .25s linear,margin-top .25s linear,margin-right .25s linear,margin-left .25s linear;
+    }
+}
+
+a:hover{
+    text-decoration: none !important;
+}

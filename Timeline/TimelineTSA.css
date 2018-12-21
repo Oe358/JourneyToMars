@@ -1,0 +1,811 @@
+body {
+    background: url(Background-Image.jpg) repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    top: -1rem;
+    width: 100%;
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Righteous', serif;
+}
+
+#back-to-home-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 12rem;
+}
+
+a {
+    color: rgb(0, 255, 255);
+    font-family: 'Aldrich', serif;
+}
+
+a:hover {
+    color: rgb(200, 15, 15);
+    text-decoration: none;
+}
+
+h2 {
+    color: white;
+    position: absolute;
+    top: 14rem;
+    width: 100%;
+    font-size: 2.25rem;
+    text-align: center;
+    font-family: 'Aldrich', serif;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#timeline-bar {
+    background-color: white;
+    border-radius: 5rem;
+    position: absolute;
+    top: 21rem;
+    left: 49rem;
+    width: 1rem;
+    height: 168rem;
+    margin-bottom: 7rem;
+}
+
+#hubble-connector {
+    background-color: white;
+    position: absolute;
+    top: 28rem;
+    left: 43rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#hubble {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 21rem;
+    left: 29rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+}
+
+.small-version {
+    position: absolute;
+    top: -.5rem;
+    width: 14rem;
+    height: 14.5rem;
+    padding: .25rem;
+    transition: opacity .25s linear;
+    transition-delay: .25s;
+}
+
+.small-version h5 {
+    font-size: 1rem;
+    position: absolute;
+    top: 1rem;
+    width: 100%;
+    text-align: center;
+    font-family: 'Aldrich', serif;
+}
+
+#hubble .small-version div {
+    background: url(http://www.spacetelescope.org/static/archives/images/screen/hubble_earth_sp01.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+.small-version h6 {
+    width: 100%;
+    font-size: 1rem;
+    position: absolute;
+    top: 12.5rem;
+    text-align: center;
+    font-family: 'Aldrich', serif;
+}
+
+.middle-version {
+    opacity: 0;
+    position: absolute;
+    top: -.5rem;
+    width: 15rem;
+    height: 14.5rem;
+    overflow: hidden;
+    padding: .5rem;
+    color: black;
+    transition: opacity 0s linear,width 0s step-start;
+    outline: none;
+    border: none;
+    background: none;
+}
+
+.middle-version .synopsis-text {
+    width: 80%;
+}
+
+.middle-version h5 {
+    position: absolute;
+    top: .5rem;
+    width: 80%;
+    text-align: center;
+    font-family: 'Aldrich', serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.middle-version h6 {
+    width: 80%;
+    font-size: 1rem;
+    position: absolute;
+    top: 4.5rem;
+    text-align: center;
+    font-family: 'Aldrich', serif;
+}
+
+.middle-version p {
+    position: absolute;
+    top: 7rem;
+    left: 2rem;
+    font-family: 'Cambria', serif;
+    font-size: 1rem;
+    text-align: left;
+    width: 68%;
+}
+
+.indent {
+    margin-left: 2rem;
+}
+
+.middle-version .synopsis-text div {
+    position: absolute;
+    top: 12.5rem;
+    width: 80%;
+    text-align: center;
+}
+
+.middle-version h4 {
+    font-size: 1rem;
+    font-family: 'Aldrich', serif;
+    outline: none;
+    background-color: transparent;
+    border: none;
+}
+
+#hubble .middle-version .img {
+    background: url(http://www.spacetelescope.org/static/archives/images/screen/hubble_earth_sp01.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+.large-version {
+    opacity: 0;
+    position: absolute;
+    top: -.5rem;
+    width: 15rem;
+    height: 14.5rem;
+    overflow: hidden;
+    padding: .5rem;
+    color: black;
+    transition: opacity 0s linear,width 0s step-start;
+    outline: none;
+    border: none;
+    background: none;
+}
+
+.large-version h5 {
+    position: absolute;
+    top: .5rem;
+    width: 100%;
+    text-align: center;
+    font-family: 'Aldrich', serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#hubble .large-version div {
+    background: url(http://www.spacetelescope.org/static/archives/images/screen/hubble_earth_sp01.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+.large-version h6 {
+    width: 100%;
+    font-size: 1rem;
+    position: absolute;
+    top: 11rem;
+    text-align: center;
+    font-family: 'Aldrich', serif;
+}
+
+.large-version p {
+    position: absolute;
+    top: 13rem;
+    left: 2rem;
+    font-family: 'Cambria', serif;
+    font-size: 1rem;
+    text-align: left;
+    width: 90%;
+    color: black;
+}
+
+.large-version h4 {
+    font-size: 1rem;
+    font-family: 'Aldrich', serif;
+    position: absolute;
+    top: 28.5rem;
+    left: 14rem;
+    outline: none;
+    background-color: transparent;
+    border: none;
+}
+
+#magellan-connector {
+    background-color: white;
+    position: absolute;
+    top: 44rem;
+    left: 50rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#magellan {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 37.5rem;
+    left: 55rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+    text-align: center;
+}
+
+#magellan .small-version div {
+    background: url(http://www.astronautix.com/graphics/1/10063297.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#magellan .middle-version .img {
+    background: url(http://www.astronautix.com/graphics/1/10063297.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#magellan .large-version div {
+    background: url(http://www.astronautix.com/graphics/1/10063297.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+#jemison-connector {
+    background-color: white;
+    position: absolute;
+    top: 62rem;
+    left: 43rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#jemison {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 55rem;
+    left: 29rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+}
+
+#jemison .small-version div {
+    background: url(https://www.biography.com/.image/t_share/MTE1ODA0OTcxODY2MjkzNzcz/mae-jemison-9542378-1-402.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#jemison .middle-version .img {
+    background: url(https://www.biography.com/.image/t_share/MTE1ODA0OTcxODY2MjkzNzcz/mae-jemison-9542378-1-402.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#jemison .large-version div {
+    background: url(https://www.biography.com/.image/t_share/MTE1ODA0OTcxODY2MjkzNzcz/mae-jemison-9542378-1-402.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+#near-connector {
+    background-color: white;
+    position: absolute;
+    top: 78rem;
+    left: 50rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#near {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 71.5rem;
+    left: 55rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+    text-align: center;
+}
+
+#near .small-version div {
+    background: url(https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA18177_hires.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#near .middle-version .img {
+    background: url(https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA18177_hires.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#near .large-version div {
+    background: url(https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA18177_hires.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+#dennis-connector {
+    background-color: white;
+    position: absolute;
+    top: 96rem;
+    left: 43rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#dennis {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 89rem;
+    left: 29rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+}
+
+#dennis .small-version div {
+    background: url(http://www.spaceadventures.com/wp-content/uploads/2014/05/dennis.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#dennis .middle-version .img {
+    background: url(http://www.spaceadventures.com/wp-content/uploads/2014/05/dennis.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#dennis .large-version div {
+    background: url(http://www.spaceadventures.com/wp-content/uploads/2014/05/dennis.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+#titan-connector {
+    background-color: white;
+    position: absolute;
+    top: 112rem;
+    left: 50rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#titan {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 105.5rem;
+    left: 55rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+    text-align: center;
+}
+
+#titan .small-version div {
+    background: url(http://voices.nationalgeographic.com/files/2013/10/Cassini-Titan-summer-2013.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#titan .middle-version .img {
+    background: url(http://voices.nationalgeographic.com/files/2013/10/Cassini-Titan-summer-2013.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#titan .large-version div {
+    background: url(http://voices.nationalgeographic.com/files/2013/10/Cassini-Titan-summer-2013.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+#vss-connector {
+    background-color: white;
+    position: absolute;
+    top: 130rem;
+    left: 43rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#vss {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 123rem;
+    left: 29rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+}
+
+#vss .small-version div {
+    background: url(http://disti.com/wordpress/wp-content/uploads/2013/10/VSS_Enterprise_Mock.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#vss .middle-version .img {
+    background: url(http://disti.com/wordpress/wp-content/uploads/2013/10/VSS_Enterprise_Mock.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#vss .large-version div {
+    background: url(http://disti.com/wordpress/wp-content/uploads/2013/10/VSS_Enterprise_Mock.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+#spacex-connector {
+    background-color: white;
+    position: absolute;
+    top: 146.5rem;
+    left: 50rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#spacex {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 139.5rem;
+    left: 55rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+    text-align: center;
+}
+
+#spacex .small-version div {
+    background: url(http://www.spacex.com/sites/spacex/files/spacex_default.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#spacex .middle-version .img {
+    background: url(http://www.spacex.com/sites/spacex/files/spacex_default.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#spacex .large-version div {
+    background: url(http://www.spacex.com/sites/spacex/files/spacex_default.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+#obama-connector {
+    background-color: white;
+    position: absolute;
+    top: 164rem;
+    left: 43rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#obama {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 157rem;
+    left: 29rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+}
+
+#obama .small-version div {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#obama .middle-version .img {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#obama .large-version div {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+#iss-connector {
+    background-color: white;
+    position: absolute;
+    top: 180.5rem;
+    left: 50rem;
+    width: 6rem;
+    height: 1rem;
+}
+
+#iss {
+    background-color: white;
+    border-radius: 2.5rem;
+    position: absolute;
+    top: 173.5rem;
+    left: 55rem;
+    width: 15rem;
+    height: 15.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    color: black;
+    transition: left .25s linear,width .25s linear;
+    text-align: center;
+}
+
+#iss .small-version div {
+    background: url(ISS-Image.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 2.5rem;
+    width: 9.25rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#iss .middle-version .img {
+    background: url(ISS-Image.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 4rem;
+    left: 27rem;
+    width: 9rem;
+    height: 9rem;
+    margin-bottom: .25rem;
+}
+
+#iss .large-version div {
+    background: url(ISS-Image.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 5rem;
+    left: 15rem;
+    width: 7rem;
+    height: 6rem;
+}
+
+#back-to-top-button {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 191rem;
+}
+
+#back-to-top-button button {
+    color: rgb(0, 255, 255);
+    font-family: 'Aldrich', serif;
+    font-size: 1.5rem;
+    outline: none;
+    border: none;
+    background: none;
+}

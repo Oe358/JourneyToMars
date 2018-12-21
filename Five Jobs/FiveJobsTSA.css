@@ -1,0 +1,423 @@
+@media only screen and (max-width: 500px) {
+    body {
+        font-size: 5px;
+    }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 500px) {
+    body {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+    body {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+    body {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        font-size: 25px;
+    }
+}
+
+body {
+    background: url(Background-Image.jpg) repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-family: 'Righteous', sans-serif;
+    font-size: 2em;
+}
+
+#back-to-home-div {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: -1rem;
+    margin-top: 1rem;
+}
+
+a {
+    position: absolute;
+    left: 46rem;
+    z-index: 6;
+    font-size: .5em;
+    color: rgb(0, 255, 255);
+    font-family: 'Aldrich', serif;
+}
+
+a:hover {
+    color: rgb(200, 15, 15);
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+#row-two p{
+    font-family: 'Special Elite', sans-serif;
+    color: white;
+    font-size: .5em;
+    margin-top: -.75em;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-align: center;
+}
+
+#enlarged-stuff {
+    position: absolute;
+    z-index: 5;
+    top: 0em;
+    left: 0em;
+    margin-top: 5.5em;
+    width: 20%;
+    height: 8em;
+}
+
+.enlarged-stuff-img {
+    margin-left: -.75em;
+    margin-top: -1em;
+}
+
+#ps-big {
+    display: none;
+}
+
+#pa-big {
+    display: none;
+}
+
+#ae-big {
+    display: none;
+}
+
+#ms-big {
+    display: none;
+}
+
+#am-big {
+    display: none;
+}
+
+#ps-info {
+    display: none;
+}
+
+#pa-info {
+    display: none;
+}
+
+#ae-info {
+    display: none;
+}
+
+#ms-info {
+    display: none;
+}
+
+#am-info {
+    display: none;
+}
+
+#original-info {
+    display: inline;
+}
+
+#info-box div h1 {
+    text-align: center;
+    font-family: 'Aldrich', sans-serif;
+}
+
+#info-box div h3 {
+    text-align: center;
+    font-family: 'Oranienbaum', sans-serif;
+}
+
+#info-box div p {
+    font-family: 'Crimson Text', sans-serif;
+    padding-left: .25em;
+    padding-right: .25em;
+}
+
+#info-box div li {
+    font-family: 'Crimson Text', sans-serif;
+}
+
+.indent {
+    margin-left: 1em;
+}
+
+button {
+    outline: none;
+}
+
+@media only screen and (min-width: 1200px) {
+    #saturn-pic {
+        position: absolute;
+        margin-top: -5em;
+        top: 0px;
+        left:0px;
+        z-index: 0;
+        width: 100%;
+    }
+
+    #ps-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 135%;
+        margin-left: -2em;
+        width: 150%;
+    }
+
+    #pa-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 45%;
+        margin-left: -2em;
+        width: 150%;
+    }
+
+    #ae-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 225%;
+        margin-left: -3.5em;
+        width: 200%;
+        z-index: 10;
+    }
+
+    #row-two #enlarged-stuff .enlarged-stuff-p {
+        margin-left: -2.25em;
+        margin-top: -.25em;
+        font-size: .7em;
+    }
+
+    #row-two #enlarged-stuff #am-big .enlarged-stuff-p {
+        margin-left: -2.25em;
+        margin-top: -.25em;
+        font-size: .55em;
+        margin-bottom: 1em;
+    }
+
+    #ms-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 265%;
+        margin-left: -3em;
+        width: 150%;
+    }
+
+    #ms-p {
+        padding-top: .5em;
+    }
+
+    #am-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 215%;
+        margin-left: -.5em;
+        width: 215%;
+    }
+
+    #info-box {
+        margin-top: .5em;
+        width: 100%;
+        overflow-y: auto;
+        height: 13em;
+        margin-bottom: .5em;
+        color: black;
+        background-color: rgb(230, 230, 230);
+        border: outset 1px gray;
+    }
+
+    #original-info h1 {
+        position: relative;
+        top: 2.5em;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    #saturn-pic {
+        position: absolute;
+        margin-top: -15%;
+        top: 0px;
+        left:0px;
+        z-index: 0;
+        width: 100%;
+    }
+
+    #ps-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 130%;
+        margin-left: -1.5em;
+        width: 175%;
+    }
+
+    #pa-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 20%;
+        margin-left: -3em;
+        width: 175%;
+    }
+
+    #ae-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 225%;
+        margin-left: -3.5em;
+        width: 220%;
+        z-index: 10;
+    }
+
+    #row-two #enlarged-stuff .enlarged-stuff-p {
+        margin-left: -2.25em;
+        margin-top: .25em;
+        font-size: .65em;
+    }
+
+    #row-two #enlarged-stuff #am-big .enlarged-stuff-p {
+        margin-left: -2.25em;
+        margin-top: -.25em;
+        font-size: .5em;
+        margin-bottom: 2em;
+    }
+
+    #ms-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 275%;
+        margin-left: -3em;
+        width: 175%;
+    }
+
+    #ms-p {
+        padding-top: .5em;
+    }
+
+    #am-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 230%;
+        margin-left: -.5em;
+        width: 230%;
+    }
+
+    #info-box {
+        margin-top: 1.5em;
+        width: 100%;
+        overflow-y: auto;
+        height: 13em;
+        margin-bottom: .5em;
+        color: black;
+        background-color: rgb(230, 230, 230);
+        border: outset 1px gray;
+    }
+
+    #original-info h1 {
+        position: relative;
+        top: 2em;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    #saturn-pic {
+        position: absolute;
+        margin-top: -6.5em;
+        top: 0px;
+        left:0px;
+        z-index: 0;
+        width: 100%;
+    }
+
+    #ps-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 135%;
+        margin-left: -2em;
+        width: 200%;
+    }
+
+    #pa-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 10%;
+        margin-left: -4.5em;
+        width: 210%;
+    }
+
+    #ae-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 230%;
+        margin-left: -3.5em;
+        width: 225%;
+        z-index: 10;
+    }
+
+    #row-two #enlarged-stuff .enlarged-stuff-p {
+        margin-left: -2.25em;
+        margin-top: 1.35em;
+        font-size: .65em;
+    }
+
+    #row-two #enlarged-stuff #am-big .enlarged-stuff-p {
+        margin-left: -2.25em;
+        margin-top: 2em;
+        font-size: .5em;
+        margin-bottom: 2em;
+    }
+
+    #ms-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 285%;
+        margin-left: -3em;
+        width: 200%;
+    }
+
+    #ms-p {
+        padding-top: .5em;
+    }
+
+    #am-button{
+        background-color: transparent;
+        border: none;
+        margin-top: 270%;
+        margin-left: -.5em;
+        width: 215%;
+    }
+
+    #info-box {
+        margin-top: 3em;
+        width: 100%;
+        overflow-y: auto;
+        height: 18em;
+        margin-bottom: .5em;
+        color: black;
+        background-color: rgb(230, 230, 230);
+        border: outset 1px gray;
+    }
+
+    #original-info h1 {
+        position: relative;
+        top: 1.5em;
+    }
+}

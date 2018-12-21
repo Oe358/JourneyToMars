@@ -1,0 +1,209 @@
+body {
+    background: url(Background-Image.jpg) repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    top: -1rem;
+    width: 100%;
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Righteous', serif;
+}
+
+#back-to-home-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 6rem;
+}
+
+a {
+    color: rgb(0, 255, 255);
+    font-family: 'Aldrich', serif;
+}
+
+a:hover {
+    color: rgb(200, 15, 15);
+    text-decoration: none;
+}
+
+h2 {
+    color: white;
+    position: absolute;
+    top: 9rem;
+    width: 100%;
+    font-size: 2.25rem;
+    text-align: center;
+    font-family: 'Aldrich', serif;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#stuff {
+    background: url(http://www.publicdomainpictures.net/pictures/170000/velka/space-view-of-earth-lights.jpg) no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+    position: absolute;
+    top: 12rem;
+    left: 12rem;
+    width: 76rem;
+    height: 35rem;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.indent {
+    margin-left: 1.5rem;
+}
+
+#sixth-grader:hover h2 {
+    top: 0rem;
+    transition: top .25s linear;
+}
+
+#sixth-grader:hover img {
+    top: 0rem;
+    transition: top .25s linear;
+}
+
+#sixth-grader:hover p {
+    opacity: 1;
+    transition: opacity .25s linear;
+    transition-delay: .25s;
+}
+
+#sixth-grader {
+    position: absolute;
+    background: rgba(243, 0, 0, 0.59);
+    width: 25%;
+    height: 100%;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+#seventh-grader:hover h2 {
+    top: 0rem;
+    transition: top .25s linear;
+}
+
+#seventh-grader:hover img {
+    top: 0rem;
+    transition: top .25s linear;
+}
+
+#seventh-grader:hover p {
+    opacity: 1;
+    transition: opacity .25s linear;
+    transition-delay: .25s;
+}
+
+#seventh-grader {
+    position: absolute;
+    background: rgba(5, 243, 45, 0.4);
+    left: 24.9%;
+    width: 25%;
+    height: 100%;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+#eighth-grader:hover h2 {
+    top: 0rem;
+    transition: top .25s linear;
+}
+
+#eighth-grader:hover img {
+    top: 0rem;
+    transition: top .25s linear;
+}
+
+#eighth-grader:hover p {
+    opacity: 1;
+    transition: opacity .25s linear;
+    transition-delay: .25s;
+}
+
+#eighth-grader {
+    position: absolute;
+    background: rgba(2, 15, 243, 0.4);
+    left: 49.8%;
+    width: 25%;
+    height: 100%;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+#us:hover h2 {
+    top: 0rem;
+    transition: top .25s linear;
+}
+
+#us:hover img {
+    top: 0rem;
+    transition: top .25s linear;
+}
+
+#us:hover p {
+    opacity: 1;
+    transition: opacity .25s linear;
+    transition-delay: .25s;
+}
+
+#us {
+    position: absolute;
+    background: rgba(222, 243, 6, 0.41);
+    left: 74.7%;
+    width: 25.3%;
+    height: 100%;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+h2 {
+    font-family: 'Aldrich', serif;
+    text-align: center;
+    font-size: 1.75rem;
+    position: relative;
+    top: 7.5rem;
+    transition: top .25s linear;
+}
+
+img {
+    margin-left: 25%;
+    width: 50%;
+    position: relative;
+    top: 7.5rem;
+    transition: top .25s linear;
+}
+
+#sixth-grader h2 {
+    top: 8.5rem;
+}
+
+#sixth-grader img {
+    top: 8.5rem;
+}
+
+#us h2 {
+    top: 10.5rem;
+}
+
+#us img {
+    top: 10.5rem;
+}
+
+p {
+    opacity: 0;
+    margin-top: .5rem;
+    font-size: 1.08rem;
+    font-family: 'Balthazar', serif;
+    transition: opacity .05s linear;
+}

@@ -1,0 +1,732 @@
+body {
+    background: url(Background-Image.jpg) repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        background-repeat: repeat;
+    }
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    top: -1rem;
+    width: 100%;
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Righteous', serif;
+}
+
+#back-to-home-div {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 7rem;
+}
+
+a {
+    color: rgb(0, 255, 255);
+    font-family: 'Aldrich', serif;
+}
+
+a:hover {
+    color: rgb(200, 15, 15);
+    text-decoration: none;
+}
+
+button {
+    outline: none;
+    border: none;
+    background: none;
+    padding: 0rem;
+    margin: 0rem;
+    position: absolute;
+    width: 19rem;
+}
+
+button img {
+    width: 19rem;
+}
+
+#pioneer-ten-button {
+    top: 11rem;
+    left: 8rem;
+}
+
+#voyager-button {
+    top: 11rem;
+    left: 29.5rem;
+}
+
+#spaceshipone-button {
+    top: 11rem;
+    left: 51rem;
+}
+
+#curiosity-rover-button {
+    top: 11rem;
+    left: 72.5rem;
+}
+
+#orion-spacecraft-button {
+    top: 25rem;
+    left: 8rem;
+}
+
+#new-shepard-button {
+    top: 25rem;
+    left: 29.5rem;
+}
+
+#ascender-button {
+    top: 25rem;
+    left: 51rem;
+}
+
+#delta-button {
+    top: 25rem;
+    left: 72.5rem;
+}
+
+#info-box {
+    position: absolute;
+    top: 40rem;
+    left: 20rem;
+    width: 60rem;
+    margin-bottom: 5rem;
+}
+
+#info-box .header {
+    position: absolute;
+    left: -5rem;
+    width: 70rem;
+    margin-bottom: 3rem;
+}
+
+#info-box #pioneer-ten-info .header {
+    background: url(Pioneer10-Background.png);
+    height: 58rem;
+}
+
+#info-box #voyager-info .header {
+    background: url(Voyager-Background.png);
+    height: 46.5rem;
+}
+
+#info-box #spaceshipone-info .header {
+    background: url(SpaceShipOne-Background.png);
+    height: 52rem;
+}
+
+#info-box #curiosity-rover-info .header {
+    background: url(CuriosityRover-Background.png);
+    height: 69rem;
+}
+
+#info-box #orion-spacecraft-info .header {
+    background: url(OrionSpacecraft-Background.png);
+    height: 52rem;
+}
+
+#info-box #new-shepard-info .header {
+    background: url(NewShepard-Background.png);
+    height: 70rem;
+}
+
+#info-box #ascender-info .header {
+    background: url(Ascender-Background.png);
+    height: 52rem;
+}
+
+#info-box #delta-info .header {
+    background: url(Delta-Background.png);
+    height: 70rem;
+}
+
+#info-box h3 {
+    font-family: 'Aldrich', serif;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: -1rem;
+    width: 100%;
+}
+
+#info-box h5 {
+    font-family: 'Oranienbaum', serif;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 4rem;
+    width: 100%;
+}
+
+#info-box img {
+    width: 30%;
+    margin-left: 35%;
+    position: absolute;
+    top: 7rem;
+}
+
+#info-box figcaption {
+    font-family: "Crimson Text", serif;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    position: absolute;
+    width: 100%;
+}
+
+#info-box #pioneer-ten-info figcaption {
+    top: 24rem;
+}
+
+#info-box #voyager-info figcaption {
+    top: 16.5rem;
+}
+
+#info-box #spaceshipone-info figcaption {
+    top: 22em;
+}
+
+#info-box #curiosity-rover-info figcaption {
+    top: 37rem;
+}
+
+#info-box #orion-spacecraft-info figcaption {
+    top: 20rem;
+}
+
+#info-box #new-shepard-info figcaption {
+    top: 35rem;
+}
+
+#info-box #ascender-info figcaption {
+    top: 24rem;
+}
+
+#info-box #delta-info figcaption {
+    top: 38rem;
+}
+
+#info-box .text-content {
+    width: 100%;
+    background-color: white;
+    position: absolute;
+    padding: 1rem 4rem 1rem 4rem;
+    margin-bottom: 3rem;
+}
+
+#info-box #pioneer-ten-info .text-content {
+    top: 27rem;
+}
+
+#info-box #voyager-info .text-content {
+    top: 19.5rem;
+}
+
+#info-box #spaceshipone-info .text-content {
+    top: 25rem;
+}
+
+#info-box #curiosity-rover-info .text-content {
+    top: 40rem;
+}
+
+#info-box #orion-spacecraft-info .text-content {
+    top: 23rem;
+}
+
+#info-box #new-shepard-info .text-content {
+    top: 38rem;
+}
+
+#info-box #ascender-info .text-content {
+    top: 27rem;
+}
+
+#info-box #delta-info .text-content {
+    top: 41rem;
+}
+
+#info-box p {
+    font-size: 1.25rem;
+    font-family: "Crimson Text", sans-serif;
+}
+
+#info-box .indent {
+    margin-left: 3rem;
+}
+
+#info-box .breaker {
+    width: 100%;
+    text-align: center;
+}
+
+
+#original-info {
+    display: inline;
+}
+
+#pioneer-ten-info {
+    display: none;
+}
+
+#voyager-info {
+    display: none;
+}
+
+#spaceshipone-info {
+    display: none;
+}
+
+#curiosity-rover-info {
+    display: none;
+}
+
+#orion-spacecraft-info {
+    display: none;
+}
+
+#new-shepard-info {
+    display: none;
+}
+
+#ascender-info {
+    display: none;
+}
+
+#delta-info {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@media only screen and (max-width: 500px) {*/
+    /*body {*/
+        /*font-size: 5px;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 768px) and (min-width: 500px) {*/
+    /*body {*/
+        /*font-size: 10px;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 992px) and (min-width: 768px) {*/
+    /*body {*/
+        /*font-size: 15px;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 1200px) and (min-width: 992px) {*/
+    /*body {*/
+        /*font-size: 20px;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (min-width: 1200px) {*/
+    /*body {*/
+        /*font-size: 25px;*/
+    /*}*/
+/*}*/
+
+/*body {*/
+    /*background: url(http://www.publicdomainpictures.net/pictures/40000/velka/spatiul-cosmic.jpg) no-repeat center center fixed;*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+/*}*/
+
+/*h1 {*/
+    /*font-size: 3em;*/
+    /*color: white;*/
+    /*font-family: 'Electrolize', sans-serif;*/
+    /*text-align: center;*/
+/*}*/
+
+/*a img {*/
+    /*width: 100%;*/
+    /*margin-top: 1em;*/
+/*}*/
+
+/*#vehicle-name-div {*/
+    /*background-color: rgb(99, 126, 163);*/
+    /*border-radius: 3em;*/
+/*}*/
+
+/*#vehicle-name-div button {*/
+    /*background-color: rgb(99, 126, 163);*/
+    /*border: none;*/
+    /*font-family: 'Calligraffitti', sans-serif;*/
+    /*font-weight: bold;*/
+    /*font-size: .8em;*/
+    /*color: white;*/
+    /*width: 100%;*/
+/*}*/
+
+/*button {*/
+    /*outline: none;*/
+/*}*/
+
+/*@media only screen and (min-width: 1401px) {*/
+    /*#row-three {*/
+        /*margin-top: .5em;*/
+        /*max-height: 150px;*/
+        /*overflow: hidden;*/
+    /*}*/
+
+    /*#info-box {*/
+        /*height: 18em;*/
+    /*}*/
+
+    /*#original-info h3 {*/
+        /*position: relative;*/
+        /*top: 4em;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (min-width: 1200px) and (max-width: 1400px) {*/
+    /*#row-three {*/
+        /*margin-top: .5em;*/
+        /*max-height: 120px;*/
+        /*overflow: hidden;*/
+    /*}*/
+
+    /*#info-box {*/
+        /*height: 12em;*/
+    /*}*/
+
+    /*#original-info h3 {*/
+        /*position: relative;*/
+        /*top: 4em;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (min-width: 992px) and (max-width: 1199px) {*/
+    /*#row-three {*/
+        /*margin-top: .5em;*/
+        /*max-height: 100px;*/
+        /*overflow: hidden;*/
+    /*}*/
+
+    /*#info-box {*/
+        /*height: 12em;*/
+    /*}*/
+
+    /*#original-info h3 {*/
+        /*position: relative;*/
+        /*top: 2.5em;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 991px) {*/
+    /*#row-three {*/
+        /*margin-top: .5em;*/
+        /*max-height: 70px;*/
+        /*overflow: hidden;*/
+    /*}*/
+
+    /*#info-box {*/
+        /*height: 12em;*/
+    /*}*/
+
+    /*#original-info h3 {*/
+        /*position: relative;*/
+        /*top: 2.5em;*/
+    /*}*/
+/*}*/
+
+/*#row-three #pio-ten-img-button {*/
+    /*width: 75%;*/
+    /*margin-left: 40%;*/
+    /*background-color: transparent;*/
+    /*border: none;*/
+/*}*/
+
+/*#row-three #voyager-img-button {*/
+    /*width: 80%;*/
+    /*background-color: transparent;*/
+    /*border: none;*/
+    /*margin-left: 20%;*/
+/*}*/
+
+/*#row-three #spaceshipone-img-button {*/
+    /*width: 100%;*/
+    /*background-color: transparent;*/
+    /*border: none;*/
+    /*margin-left: 5%;*/
+/*}*/
+
+/*#row-three #curiosity-rover-img-button {*/
+    /*width: 100%;*/
+    /*background-color: transparent;*/
+    /*border: none;*/
+    /*margin-left: -20%;*/
+/*}*/
+
+/*#row-three #orion-spacecraft-img-button {*/
+    /*width: 120%;*/
+    /*background-color: transparent;*/
+    /*border: none;*/
+/*}*/
+
+/*#row-three img {*/
+    /*width: 100%;*/
+/*}*/
+
+/*#new-shepard-button {*/
+    /*background-color: rgb(99, 126, 163);*/
+    /*border-radius: 3em;*/
+    /*text-align: center;*/
+    /*font-size: .75em;*/
+    /*font-family: 'Calligraffitti', sans-serif;*/
+    /*font-weight: bold;*/
+    /*color: white;*/
+    /*padding: .5em;*/
+/*}*/
+
+/*#new-shepard-button button{*/
+    /*background-color: transparent;*/
+    /*border: none;*/
+/*}*/
+
+/*#new-shepard-img-button {*/
+    /*width: 90%;*/
+    /*background-color: transparent;*/
+    /*border: none;*/
+    /*margin-left: 5%;*/
+/*}*/
+
+/*#new-shepard-img-button img {*/
+    /*width: 100%;*/
+/*}*/
+
+/*#columbia-img {*/
+    /*margin-left: 25%;*/
+    /*width: 50%;*/
+    /*margin-top: 5%;*/
+    /*float: left;*/
+/*}*/
+
+/*#columbia-stuff div {*/
+    /*background-color: rgb(242, 242, 242);*/
+    /*color: black;*/
+    /*text-align: center;*/
+    /*font-family: "Oranienbaum", sans-serif;*/
+    /*display: none;*/
+    /*margin-left: 80%;*/
+    /*position: relative;*/
+    /*z-index: 5;*/
+    /*width: 100%;*/
+    /*margin-top: -70%;*/
+    /*float: left;*/
+/*}*/
+
+/*#columbia-stuff div::after {*/
+    /*content: "";*/
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*right: 100%;*/
+    /*margin-top: -5px;*/
+    /*border: 10px solid;*/
+    /*border-color: transparent rgb(242, 242, 242) transparent transparent;*/
+/*}*/
+
+/*#columbia-stuff div h6 {*/
+    /*font-size: 1em;*/
+/*}*/
+
+/*#columbia-stuff div p {*/
+    /*font-size: .5em;*/
+/*}*/
+
+/*#columbia-stuff:hover div {*/
+    /*display: inline-block;*/
+/*}*/
+
+/*#ascender-button {*/
+    /*background-color: rgb(99, 126, 163);*/
+    /*border-radius: 3em;*/
+    /*text-align: center;*/
+    /*font-size: .75em;*/
+    /*font-family: 'Calligraffitti', sans-serif;*/
+    /*font-weight: bold;*/
+    /*color: white;*/
+    /*padding: .5em;*/
+/*}*/
+
+/*#ascender-button button{*/
+    /*background-color: transparent;*/
+    /*border: none;*/
+/*}*/
+
+/*#ascender-img-button {*/
+    /*width: 90%;*/
+    /*background-color: transparent;*/
+    /*border: none;*/
+    /*margin-left: 5%;*/
+/*}*/
+
+/*#ascender-img-button img {*/
+    /*width: 100%;*/
+/*}*/
+
+/*#atlantis-img {*/
+    /*margin-right: 20%;*/
+    /*width: 60%;*/
+    /*margin-top: 5%;*/
+    /*float: right;*/
+/*}*/
+
+/*#atlantis-stuff div {*/
+    /*background-color: rgb(242, 242, 242);*/
+    /*color: black;*/
+    /*text-align: center;*/
+    /*font-family: "Oranienbaum", sans-serif;*/
+    /*display: none;*/
+    /*margin-right: 88%;*/
+    /*position: relative;*/
+    /*z-index: 5;*/
+    /*width: 100%;*/
+    /*margin-top: -75%;*/
+    /*float: right;*/
+/*}*/
+
+/*#atlantis-stuff div::after {*/
+    /*content: "";*/
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*left: 100%;*/
+    /*margin-top: -5px;*/
+    /*border: 10px solid;*/
+    /*border-color: transparent transparent transparent rgb(242, 242, 242);*/
+/*}*/
+
+/*#atlantis-stuff div h6 {*/
+    /*font-size: 1em;*/
+/*}*/
+
+/*#atlantis-stuff div p {*/
+    /*font-size: .5em;*/
+/*}*/
+
+/*#atlantis-stuff:hover div {*/
+    /*display: inline-block;*/
+/*}*/
+
+/*#info-box {*/
+    /*overflow-y: auto;*/
+    /*width: 100%;*/
+    /*margin-top: .5em;*/
+    /*margin-bottom: .5em;*/
+    /*color: black;*/
+    /*background-color: rgb(230, 230, 230);*/
+    /*border: outset 1px gray;*/
+    /*padding-left: 1em;*/
+    /*padding-right: 1em;*/
+    /*padding-bottom: 1em;*/
+/*}*/
+
+/*#info-box h3 {*/
+    /*font-family: 'Audiowide', sans-serif;*/
+    /*font-size: 1.5em;*/
+    /*text-align: center;*/
+    /*margin-top: 0em;*/
+/*}*/
+
+/*#original-info h3 {*/
+    /*text-align: center;*/
+    /*position: relative;*/
+    /*font-family: 'Architects Daughter', sans-serif;*/
+/*}*/
+
+/*#info-box h5 {*/
+    /*font-family: 'Oranienbaum', sans-serif;*/
+    /*font-size: 1.1em;*/
+    /*text-align: center;*/
+    /*margin-top: -.1em;*/
+/*}*/
+
+/*#info-box img {*/
+    /*width: 50%;*/
+    /*margin-left: 25%;*/
+/*}*/
+
+/*#info-box figcaption {*/
+    /*width: 100%;*/
+    /*text-align: center;*/
+    /*font-size: .5em;*/
+    /*font-family: "Crimson Text", sans-serif;*/
+/*}*/
+
+/*#info-box p {*/
+    /*font-size: .75em;*/
+    /*font-family: "Crimson Text", sans-serif;*/
+/*}*/
+
+/*#info-box .indent {*/
+    /*margin-left: 3em;*/
+/*}*/
+
+/*#info-box .breaker {*/
+    /*width: 100%;*/
+    /*text-align: center;*/
+/*}*/
+
+/*#info-box #pio-ten-img {*/
+
+/*}*/
+
+/*#pioneer-ten-info {*/
+    /*display: none;*/
+/*}*/
+
+/*#voyager-info {*/
+    /*display: none;*/
+/*}*/
+
+/*#spaceshipone-info {*/
+    /*display: none;*/
+/*}*/
+
+/*#curiosity-rover-info {*/
+    /*display: none;*/
+/*}*/
+
+/*#orion-spacecraft-info {*/
+    /*display: none;*/
+/*}*/
+
+/*#new-shepard-info {*/
+    /*display: none;*/
+/*}*/
+
+/*#ascender-info {*/
+    /*display: none;*/
+/*}*/

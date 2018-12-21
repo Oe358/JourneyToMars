@@ -1,0 +1,115 @@
+@media only screen and (max-width: 500px) {
+    body {
+        font-size: 5px;
+    }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 500px) {
+    body {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+    body {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+    body {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        font-size: 25px;
+    }
+}
+
+body {
+    background: url(Background-Image.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 3.5em;
+    font-family: 'Righteous', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+#back-to-home-div {
+    width: 100%;
+    text-align: center;
+    margin-top: -1em;
+}
+
+#back-to-home-div a {
+    font-size: .5em;
+    color: rgb(0, 255, 255);
+    font-family: 'Aldrich', serif;
+}
+
+#back-to-home-div a:hover {
+    color: rgb(200, 15, 15);
+    text-decoration: none;
+}
+
+#row-two {
+    margin-top: 1em;
+}
+
+h3 {
+    margin-top: 5em;
+    text-align: center;
+    font-family: 'Aclonica', sans-serif;
+    font-size: 1.25em;
+}
+
+#powl {
+    margin-top: 5.5em;
+}
+
+a {
+    color: rgb(255, 102, 102);
+}
+
+a:hover{
+    text-decoration: none !important;
+    color: rgb(255, 153, 153);
+}
+
+#image-citations {
+    margin-left: -1em;
+    overflow-y: scroll;
+    height: 33rem;
+}
+
+h2 {
+    font-family: 'Aldrich', sans-serif;
+    color: white;
+    font-size: .8em;
+}
+
+p {
+    font-family: "Crimson Text", sans-serif;
+    color: white;
+    font-size: .4em;
+    margin-bottom: 3em;
+}
+
+a img {
+    width: 100%;
+    margin-top: 5em;
+}
+
+#website-citations {
+    margin-left: 2em;
+    overflow-y: scroll;
+    height: 33rem;
+}
