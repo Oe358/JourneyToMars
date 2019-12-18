@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Journey to Mars TSA.iml" filepath="$PROJECT_DIR$/.idea/Journey to Mars TSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/../WebsiteDesignTSA/.idea/WebsiteDesignTSA.iml" filepath="$PROJECT_DIR$/../WebsiteDesignTSA/.idea/WebsiteDesignTSA.iml" />
     </modules>
   </component>
